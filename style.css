@@ -1,0 +1,29 @@
+body{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  text-align:center;
+  padding:50px;
+  background-color:#f0f0f0;
+  transition:background-color 0.5s;
+}
+
+h1{
+  color:#333;
+  margin-bottom:20px;
+}
+
+button{
+  font-family: inherit;
+  padding:10px 20px;
+  font-size:18px;
+  cursor:pointer;
+  border:none;
+  border-radius:5px;
+  background-color:#911b77;
+  color:rgb(252, 250, 250);
+  transition:background-color 0.3s;
+}
+
+button:hover{
+  color:rgb(14, 13, 13);
+  background-color:#fc55e5;
+}
