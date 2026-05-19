@@ -1,4 +1,4 @@
-![Background color chenger](Background-Color-14-5-26.png)
+![Background Color Chenger](Background-color-14-5-26.png)
 # Random Background Color Changer
 
 A simple and lightweight web application that changes the page's background color to a random hexadecimal value every time a button is clicked.
